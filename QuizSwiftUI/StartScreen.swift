@@ -30,7 +30,7 @@ struct StartScreen:View{
                 .padding(200)
             }
             .background(
-                Image("SelectScreen")
+                Image("20xxMenu")
                     .resizable()
                     .scaledToFill()
                     .edgesIgnoringSafeArea(.all)
